@@ -1,13 +1,7 @@
-## Foundry
+This project was a TechCrush assignment that demonstrates how to write an ERC-721 smart contract, use OpenZeppelin, deploy a contract with Foundry, configure IPFS metadata, and mint an NFT on a testnet.
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+I created an ERC-721 NFT smart contract using Solidity and OpenZeppelin, configured IPFS metadata, wrote deployment and minting scripts with Foundry, deployed and tested the contract on the Sepolia testnet, configured MetaMask, and minted an NFT to my wallet
 
-Foundry consists of:
-
-- **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
-- **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
-- **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
-- **Chisel**: Fast, utilitarian, and verbose solidity REPL.
 
 ## Documentation
 
